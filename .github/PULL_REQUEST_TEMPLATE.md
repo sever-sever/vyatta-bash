@@ -14,7 +14,6 @@ the box, please use [x]
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Code style update (formatting, renaming)
 - [ ] Refactoring (no functional changes)
-- [ ] Migration from an old Vyatta component to vyos-1x, please link to related PR inside obsoleted component
 - [ ] Other (please describe):
 
 ## Related Task(s)
